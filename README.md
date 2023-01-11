@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tesfaldet Weldemicheal 
-- 👀 I’m interested in programmring 
+- 👀 I’m interested in programmring and IT infrastructure
 - 🌱 I’m currently learning Full Stack developer
 - 💞️ I’m looking to collaborate on team working
 - 📫 How to reach me ...
