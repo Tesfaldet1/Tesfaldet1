@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on team working
 - 📫 How to reach me ...
 - 
-Technology and linguistic tool
+Competency in both language and technology
 
 ![image](https://user-images.githubusercontent.com/91988442/214516563-f677954c-c6db-429d-a692-d90301cec262.png)
 ![image](https://user-images.githubusercontent.com/91988442/214516786-08da29dc-b1b6-4776-a935-e61658fc6b87.png)
@@ -43,5 +43,3 @@ Technology and linguistic tool
 Tesfaldet1/Tesfaldet1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Both the language and the tool
-Git, Python, Java, Mysql, sql, 
