@@ -22,6 +22,8 @@ Competency in both language and technology
 ![image](https://user-images.githubusercontent.com/91988442/214519605-19109f5f-bdef-414b-9225-9b83d196f3c8.png)
 ![image](https://user-images.githubusercontent.com/91988442/214519682-d94328df-1bda-4fdd-a200-7d4728a38102.png)
 ![image](https://user-images.githubusercontent.com/91988442/214519825-b1dcc060-6e57-4621-9a9b-9296c41a8f79.png)
+![image](https://user-images.githubusercontent.com/91988442/214801944-f793f49b-f107-430f-9441-7d9b7227c790.png)
+
 
 
 
