@@ -7,12 +7,17 @@
 Competency in both language and technology
 
 ![image](https://user-images.githubusercontent.com/91988442/214802319-8e610db7-b54b-4678-a6ab-b05f2426de54.png)
+![image](https://user-images.githubusercontent.com/91988442/214803404-96525195-0bb7-45e1-a94d-b2f8b5362539.png)
+![image](https://user-images.githubusercontent.com/91988442/214803459-f9a5cc68-2918-4efe-b610-21a409b124b9.png)
+![image](https://user-images.githubusercontent.com/91988442/214803497-8760df15-c1b8-4a8c-8252-9b4bdfbbcda3.png)
+![image](https://user-images.githubusercontent.com/91988442/214803538-933fc2b3-c899-4991-9129-b2cfd38f29d2.png)
+![image](https://user-images.githubusercontent.com/91988442/214803558-e6fd1bb8-f901-4e85-8433-278494248eff.png)
 
-![image](https://user-images.githubusercontent.com/91988442/214516786-08da29dc-b1b6-4776-a935-e61658fc6b87.png)
-![image](https://user-images.githubusercontent.com/91988442/214516914-ad4bb1a7-3d0b-4af5-ba21-769215ba980e.png)
-![image](https://user-images.githubusercontent.com/91988442/214517046-aeb4c931-ed0e-4277-af9e-a6c2e3d26f2d.png)
-![image](https://user-images.githubusercontent.com/91988442/214517135-9d72dcf0-6038-46f9-8eb6-6c6b80319ab7.png)
-![image](https://user-images.githubusercontent.com/91988442/214517320-7c85d748-701c-4794-b91f-76c8081cd93c.png)
+
+
+
+
+
 
 ![image](https://user-images.githubusercontent.com/91988442/214517776-e82977cd-85f3-4ed5-a9f8-51684a8ae2e4.png)
 ![image](https://user-images.githubusercontent.com/91988442/214518007-8e4279a9-69a2-40cc-8281-6c96bba1c3a8.png)
