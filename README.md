@@ -13,6 +13,7 @@ Competency in both language and technology
 ![image](https://user-images.githubusercontent.com/91988442/214517046-aeb4c931-ed0e-4277-af9e-a6c2e3d26f2d.png)
 ![image](https://user-images.githubusercontent.com/91988442/214517135-9d72dcf0-6038-46f9-8eb6-6c6b80319ab7.png)
 ![image](https://user-images.githubusercontent.com/91988442/214517320-7c85d748-701c-4794-b91f-76c8081cd93c.png)
+
 ![image](https://user-images.githubusercontent.com/91988442/214517776-e82977cd-85f3-4ed5-a9f8-51684a8ae2e4.png)
 ![image](https://user-images.githubusercontent.com/91988442/214518007-8e4279a9-69a2-40cc-8281-6c96bba1c3a8.png)
 ![image](https://user-images.githubusercontent.com/91988442/214518380-4f85c0f1-c2e7-4d10-abad-ed6271bc2349.png)
