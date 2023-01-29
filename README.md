@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 - 
 Competency in both language and technology
+
 ![image](https://user-images.githubusercontent.com/91988442/215343013-f3f375e3-de09-4625-9dcf-4dd6b41c8216.png)
 ![image](https://user-images.githubusercontent.com/91988442/214803404-96525195-0bb7-45e1-a94d-b2f8b5362539.png)
 ![image](https://user-images.githubusercontent.com/91988442/214803459-f9a5cc68-2918-4efe-b610-21a409b124b9.png)
