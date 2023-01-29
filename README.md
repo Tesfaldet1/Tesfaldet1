@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 - 
 Competency in both language and technology
-
+![image](https://user-images.githubusercontent.com/91988442/215343013-f3f375e3-de09-4625-9dcf-4dd6b41c8216.png)
 ![image](https://user-images.githubusercontent.com/91988442/214803404-96525195-0bb7-45e1-a94d-b2f8b5362539.png)
 ![image](https://user-images.githubusercontent.com/91988442/214803459-f9a5cc68-2918-4efe-b610-21a409b124b9.png)
 ![image](https://user-images.githubusercontent.com/91988442/214803497-8760df15-c1b8-4a8c-8252-9b4bdfbbcda3.png)
@@ -22,6 +22,8 @@ Competency in both language and technology
 ![image](https://user-images.githubusercontent.com/91988442/214806088-6fbcb713-5954-48a1-ab2a-52db412e3f10.png)
 ![image](https://user-images.githubusercontent.com/91988442/214806124-bc1ada99-dc2f-42dc-9a89-0662d4a58ddc.png)
 ![image](https://user-images.githubusercontent.com/91988442/214806170-357c9eec-eaa6-4d62-bd85-1375060caa93.png)
+![image](https://user-images.githubusercontent.com/91988442/215343029-84afd038-5582-489c-9b9d-93d517a4dc92.png)
+
 
 
 
