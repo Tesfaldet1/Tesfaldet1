@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Tesfaldet Weldemicheal 
-- 👀 I’m interested in programmring and IT infrastructure and newtwork design
-- 🌱 I’m currently learning Full Stack developer
+- 👀 I’m interested in programming and IT infrastructure and network design
+- 🌱 I’m currently working as an IT technician and onsite support 
 - 💞️ I’m looking to collaborate on team working
 - 📫 How to reach me ...
+- email: tweldemicheal@gmail.com
+- phone: 0762169989
 - 
 Competency in both language and technology
 
