@@ -3,9 +3,13 @@
 - 🌱 I’m currently working as an IT technician and onsite support 
 - 💞️ I’m looking to collaborate on team working
 - 📫 How to reach me ...
-- email: tweldemicheal@gmail.com
-- phone: 0762169989
-- 
+  email: tweldemicheal@gmail.com
+  phone: 0762169989
+- ድሕባይታ
+    ቤት ትምህርቲ መገዲ ረምዚ ቀዳማይ ደረጃ ትምህርቲ
+    ቤት ትምህርቲ መጠራ ካልአይ ደረጃ ትምህርቲ
+    ዮንሾፒንግ ዩንቨርስቲ ሽወደን ቀዳማይ ዲግረ
+    ደፕሎማ ጃቫ ፕሮግራመሪንግ 
 Competency in both language and technology
 
 ![image](https://user-images.githubusercontent.com/91988442/215343013-f3f375e3-de09-4625-9dcf-4dd6b41c8216.png)
